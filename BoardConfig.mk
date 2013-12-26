@@ -25,3 +25,7 @@ TARGET_KERNEL_CONFIG := cyanogenmod_p3110_defconfig
 
 # assert
 TARGET_OTA_ASSERT_DEVICE := p3110,GT-P3110,p3113,GT-P3113,espressowifi,espressowifixx
+
+#test
+
+TARGET_USES_OPENGLES_FOR_SCREEN_CAPTURE := true
