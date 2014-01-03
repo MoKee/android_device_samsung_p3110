@@ -8,7 +8,7 @@
         "target_path": "vendor/samsung/p31xx"
     },
     {
-      "repository": "android_vendor_samsung/omap4-common",
+      "repository": "android_vendor_samsung_omap4-common",
       "target_path": "vendor/samsung/omap4-common"
     },
     {
@@ -16,11 +16,11 @@
       "target_path": "hardware/samsung"
     },
     {
-      "repository": "android_device_samsung/p3100",
+      "repository": "android_device_samsung_p3100",
       "target_path": "device/samsung/p3100"
     },
     {
-      "repository": "android_device_samsung/omap4-common",
+      "repository": "android_device_samsung_omap4-common",
       "target_path": "device/samsung/omap4-common"
     },
     {
