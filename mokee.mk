@@ -14,17 +14,15 @@
 # limitations under the License.
 #
 
-## Specify phone tech before including full_phone
-$(call inherit-product, vendor/mk/config/gsm.mk)
-
 # Release name
 PRODUCT_RELEASE_NAME := p3110
 
 # Boot animation
-TARGET_SCREEN_HEIGHT := 1024
+# TARGET_SCREEN_HEIGHT := 1024
+TARGET_SCREEN_HEIGHT := 480
 TARGET_SCREEN_WIDTH := 600
 
-# Inherit some common MK stuff.
+# Inherit some common CM stuff.
 $(call inherit-product, vendor/mk/config/common_full_tablet_wifionly.mk)
 
 # Inherit device configuration
