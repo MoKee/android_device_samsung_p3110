@@ -18,5 +18,13 @@
     {
         "repository": "android_packages_apps_SamsungServiceMode",
         "target_path": "packages/apps/SamsungServiceMode"
-    }
+    },
+    {
+        "repository": "android_vendor_samsung_p31xx",
+        "target_path": "vendor/samsung/p31xx"
+    },
+    {
+        "repository": "android_vendor_samsung_omap4-common",
+        "target_path": "vendor/samsung/omap4-common"
+    },
 ]
